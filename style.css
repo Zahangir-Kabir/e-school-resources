@@ -1,0 +1,159 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.navbigation a{
+    color: black;
+}
+.navbigation .singin{
+    background-color: #21B473;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 20px;
+}
+.header-content{
+    margin-top: 60px;
+}
+.header-content-left p{
+    font-weight: bold;
+}
+.header-content-left h1{
+    font-weight: bold;
+}
+.header-content-left .getstar{
+    background-color: #21B473;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 20px;
+}
+.target{
+    margin-top: 60px;
+}
+.target img{
+    width: 100px;
+    margin-bottom: 10px;
+}
+.target h3{
+    font-weight: bold;
+    color: #4e4574;
+}
+.target p{
+    color: #6d6d70;
+}
+.bg-st{
+    background-color: #F8FFFB;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    padding: 40px 30px;
+    
+  
+}
+
+.bg-stu{
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    padding: 40px 30px;
+   
+}
+.getstar{
+    background-color: #21B473;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 20px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+
+}
+
+.card-deck .card{
+    padding: 13px 10px;
+    border-radius: 16px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+
+}
+.card-footer p{
+    font-size: 12px;
+    font-weight: bold;
+    color: #6D6D6E;
+}
+.card-section{
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.card-section h1{
+    margin-bottom: 40px;
+}
+.testimonial h1{
+    margin-top: 80px;
+    margin-bottom: 50px;
+    color: #413960;
+}
+.testimonial p{
+    padding-top: 3px;
+    font-weight: bold;
+}
+.footer-wrap{
+    background-color: black;
+    color: white;
+    margin-top: 80px;
+}
+.foot-wrapper{
+    padding-top: 30px;
+}
+.foot-wrapper h4{
+    margin-left: 40px;
+    font-size: 18px;
+}
+.foot-wrapper ul{
+    list-style-type: none;
+}
+
+.foot-wrapper ul a{
+    color: #c5c4c5;
+}
+.foot-wrapper ul li:hover a{
+    color: rgb(252, 249, 249);
+    text-decoration: none;
+
+}
+.student-info{
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.copy-right-area{
+    color: #7B7A80;
+    padding-bottom: 20px;
+    margin-top: 80px;
+}
+.single-area-info{
+    margin-top: 60px;
+    text-align: center;
+    background-color: #F8FFFB;
+    display: block;
+    margin: 20px;
+    padding-right: 40px;
+    padding-top: 30px;
+
+}
+.single-area-info h4{
+    padding-left: 20px;
+}
+.single-area-info p{
+    padding-left: 20px;
+}
+
+.single-area-info img{
+    width: 200px;
+    margin-bottom: 30px;
+    padding-left: 40px;
+}
+
+.active-info{
+    background-color: white;
+    box-shadow: 5px 5px 10px gray;
+}
